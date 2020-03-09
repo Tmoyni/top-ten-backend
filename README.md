@@ -1,24 +1,7 @@
-# README
+# List Maker
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+An app to make lists of your favorite TV shows and movies to share with your friends
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Developed a Javascript and React frontend with Bootstrap React User Interface elements
+Leveraged the OMDB API for users to search for a movie and show information 
+Built a backend Rails API with ActiveRecord and Postgres to store User information and their created lists
